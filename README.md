@@ -15,6 +15,9 @@ develop hobby machines and applications for laser, e.g. SLA printer or laser etc
 * Pololu driver for Z-axis
 * Connectors routed for all important pins
 * JTAG debug connector to debug e.g. using ATMEL ICE
-* Runs with an Arduino Mega 2560
 * Comes with small example code to draw an rectangle and drive the stepper motor
 * Connector for the RAMPS 1.4 Display-Kit with 12864 LCD and Controller
+
+### How to build
+
+You can either use the Eagle files to create the PCP by yourself, send the Gerber files to your favorite PCB builder or order a PCB (naked, without parts or with soldered parts ready to use with your Mega 2560) from me. For ordering the PCB please visit my Page:
